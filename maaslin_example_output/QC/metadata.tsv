@@ -1,0 +1,9 @@
+	Age	Cohort	Favorite_color	Height	Sex	Smoking	Star_Trek_Fan	Weight
+Sample1	87	Healthy	Yellow	60	0	0	1	151
+Sample2	78	Healthy	Blue	72	1	0	1	258
+Sample3	3	Healthy	Green	63	0	1	0	195
+Sample4	2	Healthy	Yellow	67	1	0	0	172
+Sample5	32	IBD	Green	71	1	1	1	202
+Sample6	10	IBD	Blue	65	0	1	0	210
+Sample7	39	IBD	Green	61	1	1	0	139
+Sample8	96	IBD	Blue	64	0	0	1	140
